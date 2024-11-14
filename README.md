@@ -1,6 +1,6 @@
 # seleniumClasses
 
-Classes sobre Selenium com Python assistindo e estudando as aulas do Dunossauro (Eduardo Mendes) no YouTube.
+Aulas sobre Selenium com Python assistindo e estudando as aulas do Dunossauro (Eduardo Mendes) no YouTube.
 
 ## Ferramentas Utilizadas
 
