@@ -166,3 +166,23 @@ Atributos de ação
 * ctrlKey
 
 ![image](https://github.com/user-attachments/assets/906a7f54-aca6-43e3-971c-88fd997cfeaf)
+
+# Aula 09 - Waits ⏳
+
+## Roteiro 🎬
+
+* Carregamento da página
+    * Normal
+    * Async
+    * Defer
+ 
+* Tipos de esperas
+    * Implícita
+    * Explicita
+ 
+* Wait
+* By
+* Locators
+* Esperas personalizadas
+  
+
