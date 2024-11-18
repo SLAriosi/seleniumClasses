@@ -82,3 +82,87 @@ Ele constrói um *wrapper** do webdriver e dispara os eventos para o Listener.
 
 
 * (wrapper = envólucro, uma caixa, onde fica quardado o webdriver para disparar os eventos que aconteceram para o Listener).
+
+# Aula 08 - Eventos pt.2 👾
+
+## 🎬 Roteiro
+
+* Eventos
+    * Teclado
+    * Mouse
+    * Drag
+* ActionChains
+
+### Teclado - Keyboard Events;
+
+Existem 3* tipos de eventos disparados por teclado
+
+* keyup
+* keydown
+* accesskey
+
+![Frame 14](https://github.com/user-attachments/assets/115d063f-a5d4-4166-ae8e-aa99322b861b)
+
+E também temos vários atributos, dos quais vou destacar 3 que considero mais importantes
+* key(Valor da tecla)
+
+* Atributos de teclas
+    * shiftKey
+    * altKey
+    * metaKey
+    * ctrlKey
+ 
+* getModifierState()
+    * CapsLock
+    * shift
+    * meta
+    * os
+
+Eventos, em grande maioria, dependem de interações do usuário. Nós podemos interagir com o browser de várias maneiras:
+
+* Mouse
+* Teclado
+* Touch*
+
+![image](https://github.com/user-attachments/assets/41fcd081-cdd5-48a1-9d69-b1c1e5ee9f9e)
+![image](https://github.com/user-attachments/assets/0b4365cf-2716-471d-877d-d7b4cd409fd7)
+
+## Action Chains - Low-level API 💡
+
+### Cadeias de ações
+
+Action Chains são maneiras de automatizar ações de baixo nível. Por exemplo, como uma tecla é pressionada ?
+
+* key Down
+* key Up
+
+### Descrevendo ações
+
+![image](https://github.com/user-attachments/assets/feff73a2-2b8a-4a11-a7de-479f6924f430)
+
+![image](https://github.com/user-attachments/assets/ac61cc2d-b286-4c1c-94f8-5c8132b29494)
+
+![image](https://github.com/user-attachments/assets/105637e8-f595-46f0-a337-05ca02ce7c4f)
+
+![image](https://github.com/user-attachments/assets/5482d19d-a20b-4a08-bc54-6375b689ceb9)
+
+![image](https://github.com/user-attachments/assets/db83417b-3e4e-43c8-b4e0-24d46c93d7a7)
+
+## Eventos de Mouse 🖱️
+
+Tipos de eventos disparados por mouse
+
+* mouseenter
+* mouseleave
+* click
+* dbclick
+* conxtmenu
+
+Atributos de ação
+
+* shiftKey
+* altKey
+* metaKey
+* ctrlKey
+
+![image](https://github.com/user-attachments/assets/906a7f54-aca6-43e3-971c-88fd997cfeaf)
